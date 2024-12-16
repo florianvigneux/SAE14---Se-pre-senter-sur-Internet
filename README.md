@@ -13,4 +13,4 @@ Pour ma part, j'ai réalisé un site ayant pour sujet le cyclisme sur route et e
 - CSS : Mise en page
   - Flexbox : Responsive design
   - CSS grid : Disposition de certains éléments
-- Le site a passé la validation validation W3C et est donc conforme à la norme WCAG 2.0 AA
+- Le site a passé la validation validation W3C et est donc conforme à la norme WCAG 2.0 AA.
