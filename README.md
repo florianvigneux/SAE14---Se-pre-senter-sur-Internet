@@ -1,7 +1,7 @@
 # SAE14 - Se présenter sur Internet
 Auteur : Florian Vigneux
 
-Lien : [https://florianvigneux.github.io/TP2_Projet_fil_rouge/](https://florianvigneux.github.io/SAE14---Se-pre-senter-sur-Internet/)
+Lien vers le [site](https://florianvigneux.github.io/SAE14---Se-pre-senter-sur-Internet/)
 
 # Description du projet
 L'objectif était de réaliser un site web sur un sujet qui nous passionnait en se basant sur les compétences apprises en cours.
